@@ -1,6 +1,8 @@
 # Object_Detection
 
- For CPU TensorFlow, you can just do pip install tensorflow
+# Installation
+ # For CPU 
+ TensorFlow, you can just do pip install tensorflow
 # For GPU
 pip install tensorflow-gpu
 
